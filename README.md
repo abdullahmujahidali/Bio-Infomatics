@@ -7,9 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/abdullahmujahidali.svg?style=social&label=Follow)](https://github.com/abdullahmujahidali)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abdulladgaf.svg?style=social)](https://twitter.com/abdulladgaf)
 
-[![GitHub contributors](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/abdullahmujahidali/Needleman-Wunsch/pulls)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://opensource.com/users/Abubakar672)
-[![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub contributors](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/abdullahmujahidali/Needleman-Wunsch/pulls)[![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/abdullahmujahidali/Needleman-Wunsch-/blob/master/LICENSE)
 [![GitHub followers](https://img.shields.io/github/followers/Abubakar672.svg?style=social&label=Follow)](https://github.com/abdullahmujahidali)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abubakar_672.svg?style=social)](https://twitter.com/abubakar_672)
