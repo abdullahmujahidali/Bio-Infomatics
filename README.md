@@ -14,7 +14,7 @@
 
 
 
-Please consider following this project's authors, [Abdullah Mujahid](https://github.com/abdullahmujahidali) [Abubakar Mujahid](https://github.com/Abubakar672), and consider starring the project to show your :heart: and support.
+Please consider following this project's authors, [Abubakar Mujahid](https://github.com/Abubakar672), [Abdullah Mujahid](https://github.com/abdullahmujahidali)  and consider starring the project to show your :heart: and support.
 
 
 
