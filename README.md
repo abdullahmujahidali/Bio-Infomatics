@@ -21,7 +21,7 @@ Please consider following this project's authors, [Abdullah Mujahid](https://git
 Use the Needleman-Wunsch algorithm to align two sequences: s1 and s2. Assume that a match = +2, mismatch = -2, gap = -2
 
 
-### This application is tested on  Linux and macOS*
+### This application is tested on Windows Linux and on macOS*
 
 * Clone this Repo
 ```bash
